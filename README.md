@@ -49,9 +49,11 @@ This repository currently reflects the deliverables for Phase 1:
 ├── requirements.txt               # Project Python dependencies
 └── README.md
 
-🛠️ Installation & Setup
+## 🛠️ Installation & Setup
+
 To run the Phase 1 notebook, you need to install the required Python libraries. Open your terminal in the project directory and run:
 
+```bash
 pip install -r requirements.txt
 
 
